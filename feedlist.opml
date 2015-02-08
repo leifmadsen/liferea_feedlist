@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Technology" text="Technology" description="Technology" type="folder">
+      <outline title="AnandTech Article Channel" text="AnandTech Article Channel" description="AnandTech Article Channel" type="rss" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="http://www.anandtech.com"/>
+      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="http://arstechnica.com"/>
+      <outline title="Tech Report: Articles" text="Tech Report: Articles" description="Tech Report: Articles" type="rss" xmlUrl="http://www.techreport.com/articles.rss" htmlUrl="http://techreport.com"/>
+      <outline title="Tech Report: Blogs" text="Tech Report: Blogs" description="Tech Report: Blogs" type="rss" xmlUrl="http://www.techreport.com/blogs.rss" htmlUrl="http://techreport.com"/>
+      <outline title="Tech Report: News" text="Tech Report: News" description="Tech Report: News" type="rss" xmlUrl="http://www.techreport.com/news.rss" htmlUrl="http://techreport.com"/>
+      <outline title="DailyTech Main News Feed" text="DailyTech Main News Feed" description="DailyTech Main News Feed" type="rss" xmlUrl="http://www.dailytech.com/rss.aspx" htmlUrl="http://www.dailytech.com"/>
+      <outline title="Engadget" text="Engadget" description="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+      <outline title="Fedora People" text="Fedora People" description="Fedora People" type="rss" xmlUrl="http://planet.fedoraproject.org/rss20.xml" htmlUrl="http://fedoraproject.org/people/"/>
+      <outline title="Groklaw" text="Groklaw" description="Groklaw" type="rss" xmlUrl="http://www.groklaw.net/backend/GrokLaw.rss" htmlUrl="http://www.groklaw.net"/>
+      <outline title="Groklaw NewsPicks" text="Groklaw NewsPicks" description="Groklaw NewsPicks" type="rss" xmlUrl="http://www.groklaw.net/backend/GLNewsPicks.rss" htmlUrl="http://www.groklaw.net"/>
+      <outline title="Linux Journal" text="Linux Journal" description="Linux Journal" type="rss" xmlUrl="http://www.linuxjournal.com/news.rss" htmlUrl="http://www.linuxjournal.com/"/>
+      <outline title="Linux Weekly News" text="Linux Weekly News" description="Linux Weekly News" type="rss" xmlUrl="http://lwn.net/headlines/rss" htmlUrl="http://lwn.net"/>
+      <outline title="Loway QueueMetrics" text="Loway QueueMetrics" description="Loway QueueMetrics" type="rss" xmlUrl="http://queuemetrics.com/rss.jsp" htmlUrl="http://queuemetrics.com"/>
+      <outline title="OS News" text="OS News" description="OS News" type="rss" xmlUrl="http://www.osnews.com/files/recent.rdf" htmlUrl="http://www.osnews.com/"/>
+      <outline title="Phoronix" text="Phoronix" description="Phoronix" type="rss" xmlUrl="http://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
+      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+      <outline title="tigase.org" text="tigase.org" description="tigase.org" type="rss" xmlUrl="http://www.tigase.org/rss.xml" htmlUrl="http://www.tigase.net/"/>
+      <outline title="ACM Queue - All Queue Content" text="ACM Queue - All Queue Content" description="ACM Queue - All Queue Content" type="rss" xmlUrl="http://queue.acm.org/rss/feeds/queuecontent.xml" htmlUrl="http://queue.acm.org/"/>
+      <outline title="Planet MySQL" text="Planet MySQL" description="Planet MySQL" type="rss" xmlUrl="http://planet.mysql.com/rss20.xml" htmlUrl="http://www.planetmysql.org/"/>
+      <outline title="Real World Technologies" text="Real World Technologies" description="Real World Technologies" type="rss" xmlUrl="http://www.realworldtech.com/feed/" htmlUrl="http://www.realworldtech.com"/>
+      <outline title="Blogs" text="Blogs" description="Blogs" type="folder">
+        <outline title="jg's Ramblings" text="jg's Ramblings" description="jg's Ramblings" type="rss" xmlUrl="http://gettys.wordpress.com/feed" htmlUrl="https://gettys.wordpress.com"/>
+        <outline title="Ted Dziuba" text="Ted Dziuba" description="Ted Dziuba" type="atom" xmlUrl="http://widgetsandshit.com/teddziuba/atom2.xml" htmlUrl="http://widgetsandshit.com/teddziuba/"/>
+        <outline title="Twilight in the Valley of the Nerds" text="Twilight in the Valley of the Nerds" description="Twilight in the Valley of the Nerds" type="rss" xmlUrl="http://nerdtwilight.wordpress.com/feed" htmlUrl="https://nerdtwilight.wordpress.com"/>
+        <outline title="Dave Cheney" text="Dave Cheney" description="Dave Cheney" type="rss" xmlUrl="http://dave.cheney.net/feed" htmlUrl="http://dave.cheney.net"/>
+        <outline title="Runscope Blog" text="Runscope Blog" description="Runscope Blog" type="rss" xmlUrl="http://blog.runscope.com/posts?format=RSS" htmlUrl="http://blog.runscope.com/"/>
+      </outline>
+      <outline title="Networking, SDN" text="Networking, SDN" description="Networking, SDN" type="folder">
+        <outline title="ipSpace.net" text="ipSpace.net" description="ipSpace.net" type="atom" xmlUrl="http://feeds.feedburner.com/CiscoIosHintsAndTricks" htmlUrl="http://blog.ipspace.net/"/>
+        <outline title="Big Switch Networks" text="Big Switch Networks" description="Big Switch Networks" type="rss" xmlUrl="http://www.bigswitch.com/feed" htmlUrl="http://www.bigswitch.com/feed"/>
+        <outline title="SDNCentral Feed" text="SDNCentral Feed" description="SDNCentral Feed" type="rss" xmlUrl="http://www.sdncentral.com/feed" htmlUrl="https://www.sdxcentral.com"/>
+        <outline title="Network Heresy" text="Network Heresy" description="Network Heresy" type="rss" xmlUrl="http://networkheresy.com/feed/" htmlUrl="http://networkheresy.com"/>
+      </outline>
+      <outline title="Development" text="Development" description="Development" type="folder">
+        <outline title="The Go Programming Language Blog" text="The Go Programming Language Blog" description="The Go Programming Language Blog" type="atom" xmlUrl="http://blog.golang.org/feed.atom" htmlUrl=""/>
+        <outline title="Go Newsletter" text="Go Newsletter" description="Go Newsletter" type="rss" xmlUrl="http://golangweekly.com/rss/1772iod5" htmlUrl="http://golangweekly.com/"/>
+        <outline title="PHPBuilder.com" text="PHPBuilder.com" description="PHPBuilder.com" type="rss" xmlUrl="http://phpbuilder.com/rss_feed.php?type=articles&amp;limit=20" htmlUrl="http://www.phpbuilder.com/rss.xml"/>
+        <outline title="PHP News" text="PHP News" description="PHP News" type="rss" xmlUrl="http://www.php.net/news.rss" htmlUrl="http://php.net/"/>
+      </outline>
+    </outline>
+    <outline title="Potpourri" text="Potpourri" description="Potpourri" type="folder">
+      <outline title="Camp Weedonwantcha" text="Camp Weedonwantcha" description="Camp Weedonwantcha" type="rss" xmlUrl="http://campcomic.com/rss" htmlUrl="http://www.campcomic.com"/>
+      <outline title="The Trenches" text="The Trenches" description="The Trenches" type="rss" xmlUrl="http://trenchescomic.com/feed" htmlUrl="http://trenchescomic.com"/>
+      <outline title="Penny Arcade" text="Penny Arcade" description="Penny Arcade" type="rss" xmlUrl="http://penny-arcade.com/feed" htmlUrl="http://penny-arcade.com"/>
+      <outline title="iFixit Blog" text="iFixit Blog" description="iFixit Blog" type="rss" xmlUrl="http://feeds.ifixit.com/ifixit/blog" htmlUrl="http://ifixit.org/blog"/>
+    </outline>
+  </body>
+</opml>
