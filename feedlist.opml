@@ -15,6 +15,7 @@
       <outline title="Fedora People" text="Fedora People" description="Fedora People" type="rss" xmlUrl="http://planet.fedoraproject.org/rss20.xml" htmlUrl="http://fedoraproject.org/people/"/>
       <outline title="Groklaw" text="Groklaw" description="Groklaw" type="rss" xmlUrl="http://www.groklaw.net/backend/GrokLaw.rss" htmlUrl="http://www.groklaw.net"/>
       <outline title="Groklaw NewsPicks" text="Groklaw NewsPicks" description="Groklaw NewsPicks" type="rss" xmlUrl="http://www.groklaw.net/backend/GLNewsPicks.rss" htmlUrl="http://www.groklaw.net"/>
+      <outline title="Kamailio (OpenSER) SIP Server" text="Kamailio (OpenSER) SIP Server" description="Kamailio (OpenSER) SIP Server" type="rss" xmlUrl="http://www.kamailio.org/w/feed/" htmlUrl="http://www.kamailio.org/w"/>
       <outline title="Linux Journal" text="Linux Journal" description="Linux Journal" type="rss" xmlUrl="http://www.linuxjournal.com/news.rss" htmlUrl="http://www.linuxjournal.com/"/>
       <outline title="Linux Weekly News" text="Linux Weekly News" description="Linux Weekly News" type="rss" xmlUrl="http://lwn.net/headlines/rss" htmlUrl="http://lwn.net"/>
       <outline title="Loway QueueMetrics" text="Loway QueueMetrics" description="Loway QueueMetrics" type="rss" xmlUrl="http://queuemetrics.com/rss.jsp" htmlUrl="http://queuemetrics.com"/>
@@ -31,12 +32,14 @@
         <outline title="Twilight in the Valley of the Nerds" text="Twilight in the Valley of the Nerds" description="Twilight in the Valley of the Nerds" type="rss" xmlUrl="http://nerdtwilight.wordpress.com/feed" htmlUrl="https://nerdtwilight.wordpress.com"/>
         <outline title="Dave Cheney" text="Dave Cheney" description="Dave Cheney" type="rss" xmlUrl="http://dave.cheney.net/feed" htmlUrl="http://dave.cheney.net"/>
         <outline title="Runscope Blog" text="Runscope Blog" description="Runscope Blog" type="rss" xmlUrl="http://blog.runscope.com/posts?format=RSS" htmlUrl="http://blog.runscope.com/"/>
+        <outline title="Docker Blog" text="Docker Blog" description="Docker Blog" type="rss" xmlUrl="http://blog.docker.com/feed/" htmlUrl="http://blog.docker.com"/>
       </outline>
       <outline title="Networking, SDN" text="Networking, SDN" description="Networking, SDN" type="folder">
         <outline title="ipSpace.net" text="ipSpace.net" description="ipSpace.net" type="atom" xmlUrl="http://feeds.feedburner.com/CiscoIosHintsAndTricks" htmlUrl="http://blog.ipspace.net/"/>
         <outline title="Big Switch Networks" text="Big Switch Networks" description="Big Switch Networks" type="rss" xmlUrl="http://www.bigswitch.com/feed" htmlUrl="http://www.bigswitch.com/feed"/>
         <outline title="SDNCentral Feed" text="SDNCentral Feed" description="SDNCentral Feed" type="rss" xmlUrl="http://www.sdncentral.com/feed" htmlUrl="https://www.sdxcentral.com"/>
         <outline title="Network Heresy" text="Network Heresy" description="Network Heresy" type="rss" xmlUrl="http://networkheresy.com/feed/" htmlUrl="http://networkheresy.com"/>
+        <outline title="Blog | SocketPlane" text="Blog | SocketPlane" description="Blog | SocketPlane" type="rss" xmlUrl="http://socketplane.io/blog/feeds/rss/" htmlUrl="http://socketplane.io/blog/"/>
       </outline>
       <outline title="Development" text="Development" description="Development" type="folder">
         <outline title="The Go Programming Language Blog" text="The Go Programming Language Blog" description="The Go Programming Language Blog" type="atom" xmlUrl="http://blog.golang.org/feed.atom" htmlUrl=""/>
