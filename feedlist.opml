@@ -11,8 +11,8 @@
       <outline title="Tech Report: Blogs" text="Tech Report: Blogs" description="Tech Report: Blogs" type="rss" xmlUrl="http://www.techreport.com/blogs.rss" htmlUrl="http://techreport.com"/>
       <outline title="Tech Report: News" text="Tech Report: News" description="Tech Report: News" type="rss" xmlUrl="http://www.techreport.com/news.rss" htmlUrl="http://techreport.com"/>
       <outline title="DailyTech Main News Feed" text="DailyTech Main News Feed" description="DailyTech Main News Feed" type="rss" xmlUrl="http://www.dailytech.com/rss.aspx" htmlUrl="http://www.dailytech.com"/>
-      <outline title="Engadget" text="Engadget" description="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
-      <outline title="Fedora People" text="Fedora People" description="Fedora People" type="rss" xmlUrl="http://planet.fedoraproject.org/rss20.xml" htmlUrl="http://fedoraproject.org/people/"/>
+      <outline title="Engadget" text="Engadget" description="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/rss.xml"/>
+      <outline title="Fedora People" text="Fedora People" description="Fedora People" type="rss" xmlUrl="http://planet.fedoraproject.org/rss20.xml" htmlUrl="https://fedoraproject.org/people/"/>
       <outline title="Groklaw" text="Groklaw" description="Groklaw" type="rss" xmlUrl="http://www.groklaw.net/backend/GrokLaw.rss" htmlUrl="http://www.groklaw.net"/>
       <outline title="Groklaw NewsPicks" text="Groklaw NewsPicks" description="Groklaw NewsPicks" type="rss" xmlUrl="http://www.groklaw.net/backend/GLNewsPicks.rss" htmlUrl="http://www.groklaw.net"/>
       <outline title="Kamailio (OpenSER) SIP Server" text="Kamailio (OpenSER) SIP Server" description="Kamailio (OpenSER) SIP Server" type="rss" xmlUrl="http://www.kamailio.org/w/feed/" htmlUrl="http://www.kamailio.org/w"/>
@@ -23,7 +23,7 @@
       <outline title="Phoronix" text="Phoronix" description="Phoronix" type="rss" xmlUrl="http://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
       <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
       <outline title="tigase.org" text="tigase.org" description="tigase.org" type="rss" xmlUrl="http://www.tigase.org/rss.xml" htmlUrl="http://www.tigase.net/"/>
-      <outline title="ACM Queue - All Queue Content" text="ACM Queue - All Queue Content" description="ACM Queue - All Queue Content" type="rss" xmlUrl="http://queue.acm.org/rss/feeds/queuecontent.xml" htmlUrl="http://queue.acm.org/"/>
+      <outline title="ACM Queue - All Queue Content" text="ACM Queue - All Queue Content" description="ACM Queue - All Queue Content" type="rss" xmlUrl="http://queue.acm.org/rss/feeds/queuecontent.xml" htmlUrl="http://queue.acm.org/Curmudgeon"/>
       <outline title="Planet MySQL" text="Planet MySQL" description="Planet MySQL" type="rss" xmlUrl="http://planet.mysql.com/rss20.xml" htmlUrl="http://www.planetmysql.org/"/>
       <outline title="Real World Technologies" text="Real World Technologies" description="Real World Technologies" type="rss" xmlUrl="http://www.realworldtech.com/feed/" htmlUrl="http://www.realworldtech.com"/>
       <outline title="Blogs" text="Blogs" description="Blogs" type="folder">
@@ -35,6 +35,7 @@
         <outline title="Docker Blog" text="Docker Blog" description="Docker Blog" type="rss" xmlUrl="http://blog.docker.com/feed/" htmlUrl="http://blog.docker.com"/>
       </outline>
       <outline title="Networking, SDN" text="Networking, SDN" description="Networking, SDN" type="folder">
+        <outline title="Light Reading:" text="Light Reading:" description="Light Reading:" type="rss" xmlUrl="http://www.lightreading.com/rss_simple.asp" htmlUrl="http://www.lightreading.com"/>
         <outline title="ipSpace.net" text="ipSpace.net" description="ipSpace.net" type="atom" xmlUrl="http://feeds.feedburner.com/CiscoIosHintsAndTricks" htmlUrl="http://blog.ipspace.net/"/>
         <outline title="Big Switch Networks" text="Big Switch Networks" description="Big Switch Networks" type="rss" xmlUrl="http://www.bigswitch.com/feed" htmlUrl="http://www.bigswitch.com/feed"/>
         <outline title="SDNCentral Feed" text="SDNCentral Feed" description="SDNCentral Feed" type="rss" xmlUrl="http://www.sdncentral.com/feed" htmlUrl="https://www.sdxcentral.com"/>
